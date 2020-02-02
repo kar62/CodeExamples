@@ -1,0 +1,11 @@
+/Users/snippies/Projects/BinaryTreeExample/BinaryTreeExample/bin/Debug/netcoreapp3.1/BinaryTreeExample
+/Users/snippies/Projects/BinaryTreeExample/BinaryTreeExample/bin/Debug/netcoreapp3.1/BinaryTreeExample.deps.json
+/Users/snippies/Projects/BinaryTreeExample/BinaryTreeExample/bin/Debug/netcoreapp3.1/BinaryTreeExample.runtimeconfig.json
+/Users/snippies/Projects/BinaryTreeExample/BinaryTreeExample/bin/Debug/netcoreapp3.1/BinaryTreeExample.runtimeconfig.dev.json
+/Users/snippies/Projects/BinaryTreeExample/BinaryTreeExample/bin/Debug/netcoreapp3.1/BinaryTreeExample.dll
+/Users/snippies/Projects/BinaryTreeExample/BinaryTreeExample/bin/Debug/netcoreapp3.1/BinaryTreeExample.pdb
+/Users/snippies/Projects/BinaryTreeExample/BinaryTreeExample/obj/Debug/netcoreapp3.1/BinaryTreeExample.csprojAssemblyReference.cache
+/Users/snippies/Projects/BinaryTreeExample/BinaryTreeExample/obj/Debug/netcoreapp3.1/BinaryTreeExample.AssemblyInfoInputs.cache
+/Users/snippies/Projects/BinaryTreeExample/BinaryTreeExample/obj/Debug/netcoreapp3.1/BinaryTreeExample.AssemblyInfo.cs
+/Users/snippies/Projects/BinaryTreeExample/BinaryTreeExample/obj/Debug/netcoreapp3.1/BinaryTreeExample.dll
+/Users/snippies/Projects/BinaryTreeExample/BinaryTreeExample/obj/Debug/netcoreapp3.1/BinaryTreeExample.pdb
